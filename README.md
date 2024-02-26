@@ -24,7 +24,6 @@ Demo Video Link: [Click here](https://youtu.be/MeJvT-kpax8)
 ## UN Sustainable Development Goals And Targets
 ### SDG 11: Make cities and human settlements inclusive, safe, resilient and sustainable
 
-![SDG 11 Image](https://github.com/teamcentennials/Ecorich/assets/135758555/94c2cfac-c269-49bd-8423-08e4bc2f435d)
 
 > **TARGET 11.6 - REDUCE THE ENVIRONMENTAL IMPACT OF CITIES**
 By 2030, reduce the adverse per capita environmental impact of cities, including by paying special attention to air quality and municipal and other waste management.
